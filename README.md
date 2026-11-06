@@ -7,7 +7,7 @@
 | S/N | Name | Registration Number |
 |---:|---|---|
 | 1 | Goodness Peters | VUG/SEN/24/11453 |
-| 2 | Njoku Emmanuel Sontochukwu | VUG/SEN/24/11680 |
+| 2 | Njoku Emmanuel Somtochukwu | VUG/SEN/24/11680 |
 | 3 | Achi Zoe | VUG/SEN/24/11297 |
 | 4 | Chisom Okoronkwo | VUG/SEN/25/14752 |
 | 5 | Ogbonna Alexander | VUG/SEN/24/12200 |
